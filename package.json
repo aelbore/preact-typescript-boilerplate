@@ -1,0 +1,27 @@
+{
+  "name": "preact-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "A starter project for projects using Typescript and Preact",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wiredawg/preact-typescript-boilerplate.git"
+  },
+  "author": "KB <wirechamp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wiredawg/preact-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/wiredawg/preact-typescript-boilerplate#readme",
+  "dependencies": {
+    "preact": "^8.2.4",
+    "ts-loader": "^2.3.4"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2",
+    "webpack": "^3.5.5"
+  }
+}
